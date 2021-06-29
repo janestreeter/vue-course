@@ -28,7 +28,7 @@ export default {
 </script>
 
 <style scoped>
-ul {
+  ul {
   list-style: none;
   margin: 2rem auto;
   max-width: 20rem;
